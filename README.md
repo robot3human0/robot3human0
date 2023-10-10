@@ -1,4 +1,4 @@
-![]("https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif")
+[![Gif image]("https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif")]("https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif")
 
 ### 👋 Hello | Привет | Salom 👋
 <!--
