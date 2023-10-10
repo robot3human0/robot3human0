@@ -1,5 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="100"/>
+</div>
 
+### 👋 Hello | Привет | Salom 👋
 <!--
 **robot3human0/robot3human0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
