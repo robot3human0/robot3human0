@@ -1,5 +1,5 @@
 
-![Gif Image](https://tenor.com/bfPfu.gif)
+![Gif Image](https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif)
 ### 👋 Hello | Привет | Salom 👋
 <!--
 **robot3human0/robot3human0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
