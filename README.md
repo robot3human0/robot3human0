@@ -1,9 +1,23 @@
-<div style="text-align: center;">
-  <img src="[your_gif_link_here](https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif)" alt="Typing fast" />
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif" alt="Typing fast" />
+</p>
 
 <div align="center">
-  <h2>👋 Hello | Привет | Salom 👋</h2>
+  <h2>👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Привет&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋</h2>
+</div>
+<div align="center">
+  - 🥷 I'm Dilmurod&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<br>
+  - 🇺🇿 From Tashkent, Uzbekistan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br>
+  - 🇷🇺 Living in Novosibirsk, Russia&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<br>
+  - 🌱 Studying at "21-school" (nickname: myeshask)<br>
+  - 📫 My email: bergwrund@gmail.com&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
+  - ✈ My TG: @robot3human0&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+</div>
+
+
+---
+<div align="center">
+<h3> T⚙⚙ls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Langages © </h3>
 </div>
 
 <div align="center">
@@ -22,17 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
-<!--
-**robot3human0/robot3human0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Gif image]("https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif")
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">💪 My Stats:</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robot3human0&theme=transparent&border_radius=6)](https://git.io/streak-stats)
