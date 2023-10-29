@@ -39,4 +39,6 @@
 ---
 
 <p align="center">💪 My Stats:</p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robot3human0&theme=transparent&border_radius=6)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=robot3human0&theme=merko&border_radius=6" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robot3human0&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
