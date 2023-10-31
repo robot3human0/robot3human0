@@ -17,7 +17,7 @@
 
 ---
 <div align="center">
-<h3> T⚙⚙ls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Langages © </h3>
+<h3> T⚙⚙ls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languges © </h3>
 </div>
 
 <div align="center">
