@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif" alt="Typing fast" />
+  <img src="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023" alt="Monkey developer" />
 </p>
 
 <div align="center">
@@ -8,7 +8,6 @@
 <div align="center">
   - 🥷 I'm Dilmurod&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<br>
   - 🇺🇿 From Tashkent, Uzbekistan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br>
-  - 🇷🇺 Living in Novosibirsk, Russia&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<br>
   - 🌱 Studying at "21-school" (nickname: myeshask)<br>
   - 📫 My email: bergwrund@gmail.com&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
   - ✈ My TG: @robot3human0&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
