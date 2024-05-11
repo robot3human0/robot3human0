@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAC/monkey-developer.gif" alt="Monkey developer" />
+  <img src="https://c.tenor.com/pPKOYQpTO8AAAAAd/tenor.gif" alt="Monkey developer" />
 </p>
 
 <div align="center">
