@@ -1,42 +1,54 @@
 <p align="center">
-  <img src="https://c.tenor.com/YjN3ocDZc2YAAAAd/tenor.gif" alt="Monkey developer" />
+  <img src="https://c.tenor.com/YjN3ocDZc2YAAAAd/tenor.gif" alt="Monkey developer" width="300"/>
 </p>
 
-<div align="center">
-  <h2>👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Привет&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋</h2>
-</div>
-<div align="center">
-  - 🥷 I'm Dilmurod&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<br>
-  - 🇺🇿 From Tashkent, Uzbekistan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br>
-  - 🌱 Studying at "21-school" (nickname: myeshask)<br>
-  - 📫 My email: bergwrund@gmail.com&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<br>
-  - ✈ My TG: @robot3human0&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
-</div>
+<h1 align="center">Hey, I'm Dilmurod 👋</h1>
 
+<p align="center">
+  🇺🇿 Tashkent, Uzbekistan • 🧑‍💻 C/C++ Developer & Researcher • 🌱 Learning Rust & Backend stuff
+</p>
 
 ---
-<div align="center">
-<h3> T⚙⚙ls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languges © </h3>
-</div>
+
+## 📖 About Me
+- 🥷 Nickname: **myeshask**
+- 🏫 Studying at *21-school*
+- 📫 Email: [bergwrund@gmail.com](mailto:bergwrund@gmail.com)
+- ✈ Telegram: [@robot3human0](https://t.me/robot3human0)
+
+---
+
+## ⚙️ Languages & Tools
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cpp" **alt="Cpp" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" **alt="postgresql" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" **alt="qt" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" **alt="OpenGL" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" **alt="gcc" width="40" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Doker" **alt="Doker" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" **alt="CMake" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
 ---
-<p align="center">💪 My Stats:</p>
-  
-![Dosx001's github stats](https://github-readme-stats-dosx001.vercel.app/api/?username=robot3human0&count_private=true&include_all_commits=true&show_icons=true&title_color=6с7&icon_color=00e7ff&text_color=9f9f9f&bg_color=151515) 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=robot3human0&theme=merko&border_radius=6" alt="GitHub Streak" /></a>
+
+## 🚀 Projects
+- 🐍 **[Snake Game in Rust](https://github.com/robot3human0/snake-game-rust)** — my first Rust experiment
+- 📦 **[Some C++ backend tools](https://github.com/robot3human0)** — (добавь ссылку на свой проект или репу)
+- 🛠 **[Pet projects](https://github.com/robot3human0?tab=repositories)** — разные эксперименты и утилиты
+
+*(можно добавить ещё проекты или убрать, если не хочешь)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-dosx001.vercel.app/api/?username=robot3human0&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=robot3human0&theme=tokyonight&border_radius=6" height="150"/>
+</div>
+
+---
+<p align="center">Made with ❤️ by Dilmurod</p>
