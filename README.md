@@ -10,6 +10,7 @@
 🌱 Learning Rust & Backend stuff
 🇷🇺 Russian native speaker
 ✈️ Telegram: <a href="https://t.me/robot3human0">@robot3human0</a>
+<br>
 </pre>
 <br><br>
 <img src="https://github.com/robot3human0/robot3human0/blob/main/resources/nyan-cat-poptart-cat.gif" height="80" />
