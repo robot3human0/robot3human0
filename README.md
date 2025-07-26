@@ -14,6 +14,6 @@
   </div>
 </div>
 <br><br>
-<img src="https://github.com/robot3human0/robot3human0/blob/main/resources/nyan-cat-poptart-cat.gif" height="40" />
+<img src="https://github.com/robot3human0/robot3human0/blob/main/resources/nyan-cat-poptart-cat.gif" height="80" />
 <br><br><br>
 </div>
