@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=5000&size=42&duration=3500&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=160&lines=Forging+silence+into+code,;Wielding+Rust+and+C%2B%2B+in+the+shadows,;Crafting+sparks+from+the+void.+%E2%9C%A8" width="70%" />
 <br><br>
 <div style="background-color:#30321f; padding: 20px 0;">
